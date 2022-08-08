@@ -1,4 +1,0 @@
-INFO 2022-08-08 16:29:23,068 Pos:network_investigate.py[47] Msg:Welcome to the ping-line tool
-INFO 2022-08-08 16:29:23,068 Pos:network_investigate.py[52] Msg:Getting IP and MAC address information 
-INFO 2022-08-08 16:29:23,138 Pos:network_investigate.py[61] Msg:Error: Run the "ipconfig /all" command to obtain the current network configuration is incorrect. The specific cause: 'gbk' codec can't decode byte 0x91 in position 286: illegal multibyte sequence
-INFO 2022-08-08 16:29:23,138 Pos:network_investigate.py[62] Msg:Tool running interrupted, please press any key to exit, welcome to use next time. 
