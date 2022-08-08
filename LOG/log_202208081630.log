@@ -1,0 +1,13 @@
+INFO 2022-08-08 16:30:39,786 Pos:network_investigate.py[47] Msg:Welcome to the ping-line tool
+INFO 2022-08-08 16:30:39,787 Pos:network_investigate.py[52] Msg:Getting IP and MAC address information 
+INFO 2022-08-08 16:30:39,899 Pos:network_investigate.py[59] Msg:The IP address and MAC address information are obtained...
+INFO 2022-08-08 16:30:39,900 Pos:network_investigate.py[68] Msg:Obtaining the Default Gateway 
+INFO 2022-08-08 16:30:39,901 Pos:network_investigate.py[78] Msg:The default gateway information is extracted successfully...
+INFO 2022-08-08 16:30:42,968 Pos:network_investigate.py[90] Msg:The command in E:\Pycharm file\ping-line\self-defined_commands.txt is being executed 
+INFO 2022-08-08 16:30:42,971 Pos:network_investigate.py[28] Msg:The <built-in method strip of str object at 0x0000019FCDD441E0> command is being executed
+INFO 2022-08-08 16:30:42,972 Pos:network_investigate.py[28] Msg:The <built-in method strip of str object at 0x0000019FCDD44198> command is being executed
+INFO 2022-08-08 16:30:42,972 Pos:network_investigate.py[28] Msg:The <built-in method strip of str object at 0x0000019FCDD44270> command is being executed
+INFO 2022-08-08 16:30:42,973 Pos:network_investigate.py[28] Msg:The <built-in method strip of str object at 0x0000019FCDD44228> command is being executed
+INFO 2022-08-08 16:30:42,973 Pos:network_investigate.py[28] Msg:The <built-in method strip of str object at 0x0000019FCDD44300> command is being executed
+INFO 2022-08-08 16:31:01,714 Pos:network_investigate.py[133] Msg:Execute the given command to complete...
+INFO 2022-08-08 16:31:01,714 Pos:network_investigate.py[134] Msg:Network diagnosis is complete. Please go to E:\Pycharm file\ping-line\echo_information_202288163039.txt for the results. 

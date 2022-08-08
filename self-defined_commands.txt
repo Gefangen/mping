@@ -1,0 +1,5 @@
+ping www.google.com
+ping www.baidu.com
+ping www.taobao.com
+ping www.sougou.com
+ping 114.114.114.114
