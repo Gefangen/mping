@@ -1,4 +1,4 @@
-# ping-line
+# mping
 A batch Ping network monitoring tool based on multithread.
 
 ## run
